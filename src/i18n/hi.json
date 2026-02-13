@@ -1,0 +1,105 @@
+{
+  "common": {
+    "appName": "किसान मित्र AI",
+    "tagline": "आपका कृषि सहायक",
+    "loading": "लोड हो रहा है...",
+    "error": "त्रुटि",
+    "success": "सफलता",
+    "cancel": "रद्द करें",
+    "save": "सहेजें",
+    "delete": "हटाएं",
+    "edit": "संपादित करें",
+    "back": "वापस",
+    "next": "आगे",
+    "submit": "जमा करें",
+    "retry": "पुनः प्रयास करें",
+    "offline": "आप ऑफलाइन हैं",
+    "online": "आप वापस ऑनलाइन हैं"
+  },
+  "auth": {
+    "login": "लॉगिन",
+    "logout": "लॉगआउट",
+    "phoneNumber": "फोन नंबर",
+    "enterPhone": "अपना फोन नंबर दर्ज करें",
+    "verifyOTP": "OTP सत्यापित करें",
+    "enterOTP": "अपने फोन पर भेजा गया OTP दर्ज करें",
+    "resendOTP": "OTP पुनः भेजें",
+    "verifying": "सत्यापित कर रहे हैं...",
+    "sendingOTP": "OTP भेज रहे हैं..."
+  },
+  "farm": {
+    "myFarms": "मेरे खेत",
+    "addFarm": "खेत जोड़ें",
+    "editFarm": "खेत संपादित करें",
+    "farmName": "खेत का नाम",
+    "location": "स्थान",
+    "state": "राज्य",
+    "district": "जिला",
+    "village": "गांव",
+    "area": "क्षेत्रफल",
+    "soilType": "मिट्टी का प्रकार",
+    "irrigationType": "सिंचाई का प्रकार",
+    "crops": "फसलें",
+    "season": "मौसम",
+    "selectState": "राज्य चुनें",
+    "selectSoilType": "मिट्टी का प्रकार चुनें",
+    "selectIrrigation": "सिंचाई का प्रकार चुनें",
+    "selectCrops": "फसलें चुनें",
+    "selectSeason": "मौसम चुनें"
+  },
+  "chat": {
+    "askQuestion": "एक प्रश्न पूछें...",
+    "typeMessage": "अपना संदेश टाइप करें",
+    "voiceInput": "वॉयस इनपुट",
+    "send": "भेजें",
+    "recording": "रिकॉर्ड कर रहे हैं...",
+    "processing": "प्रोसेस कर रहे हैं...",
+    "tapToRecord": "रिकॉर्ड करने के लिए टैप करें",
+    "releaseToSend": "भेजने के लिए छोड़ें",
+    "confidence": "विश्वास स्तर",
+    "sources": "स्रोत",
+    "suggestions": "सुझाव",
+    "playAudio": "ऑडियो चलाएं",
+    "noMessages": "अभी तक कोई संदेश नहीं। बातचीत शुरू करें!",
+    "errorSending": "संदेश भेजने में विफल"
+  },
+  "history": {
+    "chatHistory": "चैट इतिहास",
+    "noHistory": "अभी तक कोई बातचीत इतिहास नहीं है",
+    "searchHistory": "इतिहास खोजें..."
+  },
+  "schemes": {
+    "governmentSchemes": "सरकारी योजनाएं",
+    "searchSchemes": "योजनाएं खोजें...",
+    "eligibility": "पात्रता",
+    "benefits": "लाभ",
+    "apply": "अभी आवेदन करें",
+    "learnMore": "और जानें",
+    "noSchemes": "कोई योजना नहीं मिली",
+    "filterByCategory": "श्रेणी के अनुसार फ़िल्टर करें",
+    "filterByState": "राज्य के अनुसार फ़िल्टर करें"
+  },
+  "profile": {
+    "myProfile": "मेरी प्रोफ़ाइल",
+    "displayName": "नाम",
+    "phoneNumber": "फोन नंबर",
+    "preferredLanguage": "पसंदीदा भाषा",
+    "settings": "सेटिंग्स",
+    "about": "जानकारी",
+    "version": "संस्करण",
+    "logoutConfirm": "क्या आप वाकई लॉगआउट करना चाहते हैं?"
+  },
+  "nav": {
+    "chat": "चैट",
+    "history": "इतिहास",
+    "schemes": "योजनाएं",
+    "profile": "प्रोफ़ाइल"
+  },
+  "errors": {
+    "authFailed": "प्रमाणीकरण विफल",
+    "networkError": "नेटवर्क त्रुटि। कृपया अपना कनेक्शन जांचें",
+    "permissionDenied": "अनुमति अस्वीकृत",
+    "invalidInput": "अमान्य इनपुट",
+    "unknownError": "एक अप्रत्याशित त्रुटि हुई"
+  }
+}
