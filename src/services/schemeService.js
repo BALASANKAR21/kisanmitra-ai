@@ -54,6 +54,7 @@ export const getSchemes = async (filters = {}) => {
 
     if (state) {
       // Check if scheme applies to all states or specific state
+      // Note: Firestore 'in' operator supports up to 10 values
       constraints.push(where('state', 'in', [state, 'all']));
     }
 
@@ -178,6 +179,7 @@ export const searchSchemes = async (searchQuery, options = {}) => {
 
     if (state) {
       // Check if scheme applies to all states or specific state
+      // Note: Firestore 'in' operator supports up to 10 values
       constraints.push(where('state', 'in', [state, 'all']));
     }
 
