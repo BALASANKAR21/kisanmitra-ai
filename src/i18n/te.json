@@ -1,0 +1,105 @@
+{
+  "common": {
+    "appName": "కిసాన్ మిత్రా AI",
+    "tagline": "మీ వ్యవసాయ సహాయకుడు",
+    "loading": "లోడ్ అవుతోంది...",
+    "error": "లోపం",
+    "success": "విజయం",
+    "cancel": "రద్దు",
+    "save": "సేవ్",
+    "delete": "తొలగించు",
+    "edit": "సవరించు",
+    "back": "వెనుకకు",
+    "next": "తదుపరి",
+    "submit": "సమర్పించండి",
+    "retry": "మళ్లీ ప్రయత్నించండి",
+    "offline": "మీరు ఆఫ్‌లైన్‌లో ఉన్నారు",
+    "online": "మీరు తిరిగి ఆన్‌లైన్‌లో ఉన్నారు"
+  },
+  "auth": {
+    "login": "లాగిన్",
+    "logout": "లాగౌట్",
+    "phoneNumber": "ఫోన్ నంబర్",
+    "enterPhone": "మీ ఫోన్ నంబర్‌ని నమోదు చేయండి",
+    "verifyOTP": "OTP ధృవీకరించండి",
+    "enterOTP": "మీ ఫోన్‌కు పంపిన OTPని నమోదు చేయండి",
+    "resendOTP": "OTP మళ్లీ పంపండి",
+    "verifying": "ధృవీకరిస్తోంది...",
+    "sendingOTP": "OTP పంపుతోంది..."
+  },
+  "farm": {
+    "myFarms": "నా పొలాలు",
+    "addFarm": "పొలాన్ని జోడించండి",
+    "editFarm": "పొలాన్ని సవరించండి",
+    "farmName": "పొలం పేరు",
+    "location": "స్థానం",
+    "state": "రాష్ట్రం",
+    "district": "జిల్లా",
+    "village": "గ్రామం",
+    "area": "విస్తీర్ణం",
+    "soilType": "నేల రకం",
+    "irrigationType": "నీటిపారుదల రకం",
+    "crops": "పంటలు",
+    "season": "సీజన్",
+    "selectState": "రాష్ట్రాన్ని ఎంచుకోండి",
+    "selectSoilType": "నేల రకాన్ని ఎంచుకోండి",
+    "selectIrrigation": "నీటిపారుదల రకాన్ని ఎంచుకోండి",
+    "selectCrops": "పంటలను ఎంచుకోండి",
+    "selectSeason": "సీజన్‌ను ఎంచుకోండి"
+  },
+  "chat": {
+    "askQuestion": "ప్రశ్న అడగండి...",
+    "typeMessage": "మీ సందేశాన్ని టైప్ చేయండి",
+    "voiceInput": "వాయిస్ ఇన్‌పుట్",
+    "send": "పంపండి",
+    "recording": "రికార్డ్ చేస్తోంది...",
+    "processing": "ప్రాసెస్ చేస్తోంది...",
+    "tapToRecord": "రికార్డ్ చేయడానికి ట్యాప్ చేయండి",
+    "releaseToSend": "పంపడానికి విడుదల చేయండి",
+    "confidence": "విశ్వాసం",
+    "sources": "మూలాలు",
+    "suggestions": "సూచనలు",
+    "playAudio": "ఆడియో ప్లే చేయండి",
+    "noMessages": "ఇంకా సందేశాలు లేవు. సంభాషణ ప్రారంభించండి!",
+    "errorSending": "సందేశం పంపడంలో విఫలమైంది"
+  },
+  "history": {
+    "chatHistory": "చాట్ చరిత్ర",
+    "noHistory": "ఇంకా సంభాషణ చరిత్ర లేదు",
+    "searchHistory": "చరిత్రను శోధించండి..."
+  },
+  "schemes": {
+    "governmentSchemes": "ప్రభుత్వ పథకాలు",
+    "searchSchemes": "పథకాలను శోధించండి...",
+    "eligibility": "అర్హత",
+    "benefits": "ప్రయోజనాలు",
+    "apply": "ఇప్పుడు దరఖాస్తు చేయండి",
+    "learnMore": "మరింత తెలుసుకోండి",
+    "noSchemes": "పథకాలు కనుగొనబడలేదు",
+    "filterByCategory": "వర్గం ద్వారా ఫిల్టర్ చేయండి",
+    "filterByState": "రాష్ట్రం ద్వారా ఫిల్టర్ చేయండి"
+  },
+  "profile": {
+    "myProfile": "నా ప్రొఫైల్",
+    "displayName": "పేరు",
+    "phoneNumber": "ఫోన్ నంబర్",
+    "preferredLanguage": "ప్రాధాన్యత భాష",
+    "settings": "సెట్టింగ్‌లు",
+    "about": "గురించి",
+    "version": "సంస్కరణ",
+    "logoutConfirm": "మీరు ఖచ్చితంగా లాగౌట్ చేయాలనుకుంటున్నారా?"
+  },
+  "nav": {
+    "chat": "చాట్",
+    "history": "చరిత్ర",
+    "schemes": "పథకాలు",
+    "profile": "ప్రొఫైల్"
+  },
+  "errors": {
+    "authFailed": "ప్రమాణీకరణ విఫలమైంది",
+    "networkError": "నెట్‌వర్క్ లోపం. దయచేసి మీ కనెక్షన్‌ను తనిఖీ చేయండి",
+    "permissionDenied": "అనుమతి నిరాకరించబడింది",
+    "invalidInput": "చెల్లని ఇన్‌పుట్",
+    "unknownError": "అనుకోని లోపం సంభవించింది"
+  }
+}

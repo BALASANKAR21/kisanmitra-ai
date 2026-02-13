@@ -1,0 +1,105 @@
+{
+  "common": {
+    "appName": "KisanMitra AI",
+    "tagline": "Your Agricultural Assistant",
+    "loading": "Loading...",
+    "error": "Error",
+    "success": "Success",
+    "cancel": "Cancel",
+    "save": "Save",
+    "delete": "Delete",
+    "edit": "Edit",
+    "back": "Back",
+    "next": "Next",
+    "submit": "Submit",
+    "retry": "Retry",
+    "offline": "You are offline",
+    "online": "You are back online"
+  },
+  "auth": {
+    "login": "Login",
+    "logout": "Logout",
+    "phoneNumber": "Phone Number",
+    "enterPhone": "Enter your phone number",
+    "verifyOTP": "Verify OTP",
+    "enterOTP": "Enter the OTP sent to your phone",
+    "resendOTP": "Resend OTP",
+    "verifying": "Verifying...",
+    "sendingOTP": "Sending OTP..."
+  },
+  "farm": {
+    "myFarms": "My Farms",
+    "addFarm": "Add Farm",
+    "editFarm": "Edit Farm",
+    "farmName": "Farm Name",
+    "location": "Location",
+    "state": "State",
+    "district": "District",
+    "village": "Village",
+    "area": "Area",
+    "soilType": "Soil Type",
+    "irrigationType": "Irrigation Type",
+    "crops": "Crops",
+    "season": "Season",
+    "selectState": "Select State",
+    "selectSoilType": "Select Soil Type",
+    "selectIrrigation": "Select Irrigation Type",
+    "selectCrops": "Select Crops",
+    "selectSeason": "Select Season"
+  },
+  "chat": {
+    "askQuestion": "Ask a question...",
+    "typeMessage": "Type your message",
+    "voiceInput": "Voice Input",
+    "send": "Send",
+    "recording": "Recording...",
+    "processing": "Processing...",
+    "tapToRecord": "Tap to record",
+    "releaseToSend": "Release to send",
+    "confidence": "Confidence",
+    "sources": "Sources",
+    "suggestions": "Suggestions",
+    "playAudio": "Play Audio",
+    "noMessages": "No messages yet. Start a conversation!",
+    "errorSending": "Failed to send message"
+  },
+  "history": {
+    "chatHistory": "Chat History",
+    "noHistory": "No conversation history yet",
+    "searchHistory": "Search history..."
+  },
+  "schemes": {
+    "governmentSchemes": "Government Schemes",
+    "searchSchemes": "Search schemes...",
+    "eligibility": "Eligibility",
+    "benefits": "Benefits",
+    "apply": "Apply Now",
+    "learnMore": "Learn More",
+    "noSchemes": "No schemes found",
+    "filterByCategory": "Filter by Category",
+    "filterByState": "Filter by State"
+  },
+  "profile": {
+    "myProfile": "My Profile",
+    "displayName": "Display Name",
+    "phoneNumber": "Phone Number",
+    "preferredLanguage": "Preferred Language",
+    "settings": "Settings",
+    "about": "About",
+    "version": "Version",
+    "logoutConfirm": "Are you sure you want to logout?"
+  },
+  "nav": {
+    "chat": "Chat",
+    "history": "History",
+    "schemes": "Schemes",
+    "profile": "Profile"
+  },
+  "errors": {
+    "authFailed": "Authentication failed",
+    "networkError": "Network error. Please check your connection",
+    "permissionDenied": "Permission denied",
+    "invalidInput": "Invalid input",
+    "unknownError": "An unexpected error occurred"
+  }
+}
