@@ -9,7 +9,7 @@
 
 import { createContext, useContext, useState, useEffect, useCallback } from 'react';
 import { useTranslation } from 'react-i18next';
-import { doc, updateDoc } from 'firebase/firestore';
+import { doc, updateDoc, getDoc } from 'firebase/firestore';
 import { auth, db } from '../firebase.js';
 
 /**
@@ -215,7 +215,6 @@ export const LanguageProvider = ({ children }) => {
       if (user) {
         try {
           // Check if user has a language preference in Firestore
-          const { getDoc, doc } = await import('firebase/firestore');
           const userRef = doc(db, 'users', user.uid);
           const userSnap = await getDoc(userRef);
 
